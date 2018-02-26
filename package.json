@@ -1,0 +1,30 @@
+{
+  "name": "matematikspil",
+  "version": "0.0.1",
+  "description": "A game about matematik i maaneby but now with online aspect",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "npm": "^5.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daresoul/MatematikIM-nebyOnline.git"
+  },
+  "keywords": [
+    "Math",
+    "Daresoul",
+    "Moons"
+  ],
+  "author": "Daresoul, Alexander Nortung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daresoul/MatematikIM-nebyOnline/issues"
+  },
+  "homepage": "https://github.com/Daresoul/MatematikIM-nebyOnline#readme"
+}
